@@ -2,4 +2,7 @@
 
 This was my first complete program. All it is is a square that you can move around with the controller, with a constant note playing in the background. This program taught me a lot of things, being the basics of audio, graphics and controller input.
 
-I didn't write this in an assembler because I started by using nasm, and couldn't be bothered to switch after realising it didn't have any 6502 support (It doesn't have any support right).
+I didn't write this in an assembler because when I started I was using nasm, and I couldn't be bothered to switch after realising it didn't have 6502 support. I probably could have written some macros or something, but maybe next time.
+
+### TODO
+Add screenshots/gif
